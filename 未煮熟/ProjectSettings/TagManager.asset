@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cuttingboard
+  - GreenOnion
+  - Egg
+  - GreenOnionChopped
+  - BowlStorage
+  - Bowl
+  - CraftSlotOne
+  - CraftSlotTwo
+  - CraftSlotThree
+  - CraftYield
+  - EggCooked
+  - FryingpanOne
+  - FryingpanTwo
+  - EggStorage
+  - LemonStorage
+  - RiceStorage
+  - ClamStorage
+  - PorkStorage
+  - ShrimpStorage
+  - GreenOnionStorage
+  - CraftSlotFour
+  - CraftSlotFive
+  - CraftSlotSix
+  - PotOne
+  - PotTwo
+  - Rice
+  - RiceCooked
+  - Lemon
+  - LemonCut
+  - Clams
+  - ClamCooked
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
